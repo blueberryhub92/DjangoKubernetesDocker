@@ -1,0 +1,3 @@
+# DjangoKubernetesDocker
+
+ongoing Project...
